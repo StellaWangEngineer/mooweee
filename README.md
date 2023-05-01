@@ -17,7 +17,6 @@ Mooweee is an online Movie Ticket Booking web app with MERN Stack.
 
 MERN stack is the idea of using Javascript/Node for fullstack web development.
 
-<img src="https://github.com/georgesimos/readme-assets/blob/master/cinema-plus/mern.png" />
 
 # Features!
 
